@@ -20,15 +20,15 @@ chore4982become<br><br>
 From what I've seen, there is always one 5-letter word and one 6-letter word, but their placements vary. They are always lowercase.<br><br>
 Also to note:<br>
 From the known passwords I have seen, I have never seen a word used that starting with letters G-Z.<br>
-I would recommend doing the shorter wordlist first (A-H), followed by the big wordlist.
+I would recommend doing the shorter wordlist first (A-H), followed by the big wordlist.<br>
 
-<h2>Wordlists:</h2><br>
-<h3><b>*Recommended*</b> Smaller Wordlist (A-H):</h3><br>
+<h2>Wordlists:</h2>
+<h3><b>*Recommended*</b> Smaller Wordlist (A-H):</h3>
 -3082 Words<br>
 -69MB compressed<br>
 -Tested on Lambda, took less than 2 hours to crack using gpu_8x_a100_80gb_sxm4 (240 CPU cores, 1.9 TB RAM, ~$25 with Cloud GPU)<br>
 -Worked on all handshakes I personally tested.<br><br>
-<h3>Full Wordlist:</h3><br>
+<h3>Full Wordlist:</h3>
 -7168 Words<br>
 -160MB compressed<br>
 -Never have had to use. Only recommend using if the smaller wordlist doesn't work.<br>
@@ -37,4 +37,5 @@ I would recommend doing the shorter wordlist first (A-H), followed by the big wo
 
 
 <h2>Hashcat Usage:</h2>
-hashcat -m 22000 -a 1 yourhashfile.hash list1.txt.gz list2.txt
+hashcat -m 22000 -a 1 yourhashfile.hash list1.txt.gz list2.txt<br>
+(Do not unzip list1.txt.gz, leave it compressed. Only unzip the wordlist file to get the contents.)
