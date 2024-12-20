@@ -19,10 +19,10 @@ Examples:<br>
 circle4298empty<br>
 chore4982become<br><br>
 
-From what I've seen, there is always one 5-letter word and one 6-letter word, but their placements vary. They are always lowercase.<br><br>
+There is always one 5-letter word and one 6-letter word, but their placements vary. They are always lowercase.<br><br>
 Also to note:<br>
-From the known passwords I have seen, I have never seen a word used that starting with letters G-Z.<br>
-I would recommend doing the shorter wordlist first (A-H), followed by the big wordlist.<br>
+From the known passwords I have found, I have never seen a word used that starts with letters G-Z.<br>
+I would strongly recommend doing the shorter wordlist first (A-H), followed by the big wordlist.<br>
 
 <h2>Wordlists:</h2>
 <h3><b>*Recommended*</b> Smaller Wordlist:</h3>
