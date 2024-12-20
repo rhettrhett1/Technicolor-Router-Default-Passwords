@@ -1,5 +1,7 @@
 # COX-Panoramic-Router-Default-Passwords
 
+Did this project help you? <a href="https://buymeacoffee.com/rhettrhett1">Buy me a coffee</a>
+
 <h2>About:</h2>
 This is a working project to create wordlists for Cox Panoramic Wifi Routers default passwords.<br>
 Please contribute by checking to see if your known passwords are on the list.<br><br>
