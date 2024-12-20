@@ -25,13 +25,13 @@ From the known passwords I have seen, I have never seen a word used that startin
 I would recommend doing the shorter wordlist first (A-H), followed by the big wordlist.<br>
 
 <h2>Wordlists:</h2>
-<h3><b>*Recommended*</b> Smaller Wordlist (A-H):</h3>
--3082 Words<br>
+<h3><b>*Recommended*</b> Smaller Wordlist:</h3>
+-3082 Words (Only A-H)<br>
 -69MB compressed<br>
 -Tested on Lambda, took less than 2 hours to crack using gpu_8x_a100_80gb_sxm4 (240 CPU cores, 1.9 TB RAM, ~$25 with Cloud GPU)<br>
 -Worked on all handshakes I personally tested.<br><br>
 <h3>Full Wordlist:</h3>
--7168 Words<br>
+-7168 Words (A-Z)<br>
 -160MB compressed<br>
 -Never have had to use. Only recommend using if the smaller wordlist doesn't work.<br>
 
