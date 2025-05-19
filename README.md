@@ -3,7 +3,7 @@
 Did this project help you? <a href="https://buymeacoffee.com/rhettrhett1">Buy me a coffee</a>
 
 <h2>About:</h2>
-This is a working project to create wordlists for Cox Panoramic Wifi Routers default passwords.<br>
+This is a project to create wordlists for Cox Panoramic Wifi Routers default passwords.<br>
 Please contribute by checking to see if your known passwords are on the list.<br><br>
 Wordlist was created by filtering the most common English words between 5-6 characters from <a href="https://github.com/dolph/dictionary/tree/master">Dolph Github</a><br><br>
 SSID will start with 'SETUP-' plus 4 hex like:<br>
