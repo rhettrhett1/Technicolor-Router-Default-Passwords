@@ -28,7 +28,7 @@ chore4982become<br><br>
 There is always one 5-letter word and one 6-letter word, but their placements vary. They are always lowercase.<br><br>
 
 Also to note:<br>
-From the known passwords I have found, I have never seen a word used that starts with letters I-Z. This is why the wordlist only features words starting with A-H.<br>
+From the known passwords I have found, I haven't found any words used starting with letters I-Z. This is why the wordlist only features words starting with A-H.<br>
 
 <h2>Wordlists:</h2>
 <h3><b>*Recommended*</b> List1 first:</h3>
